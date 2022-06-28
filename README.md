@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://kenyontu.github.io/frontend-mentor-product-preview-card/](https://kenyontu.github.io/frontend-mentor-product-preview-card/)
 
 ## My process
 
